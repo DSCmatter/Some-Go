@@ -20,4 +20,9 @@ func main() {
 		pow(3, 2, 10),
 		pow(3, 3, 20),
 	)
+	switch1()
+	days()
+	greeting()
+	def()
+	stackDef()
 }
