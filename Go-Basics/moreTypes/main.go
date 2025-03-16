@@ -16,4 +16,9 @@ func main() {
 	slice()
 	sliceRefArray()
 	sliceDefaults()
+	sliceLengthCapacity()
+	nilSlice()
+	SliceMake()
+	AppendSlice()
+	range1()
 }
