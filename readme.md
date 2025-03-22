@@ -1,7 +1,7 @@
 ### Run code with: 
 
 ```
-go run . // main func
+go run . 
 
 OR 
 
