@@ -13,4 +13,5 @@ func main() {
 	switch1()
 	arrays()
 	slices1()
+	SomeMap()
 }
