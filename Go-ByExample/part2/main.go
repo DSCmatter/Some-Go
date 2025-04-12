@@ -9,4 +9,5 @@ func main() {
 	RangeOver()
 	pointers()
 	structs()
+	methods()
 }

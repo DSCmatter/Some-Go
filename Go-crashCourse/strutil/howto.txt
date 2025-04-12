@@ -1,0 +1,6 @@
+go mod init Go-crashCourse
+
+import "Go-crashCourse/strutil" 
+- import this is go file
+
+
