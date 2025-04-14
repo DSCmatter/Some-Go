@@ -13,3 +13,4 @@ go run main.go
 
 - [Go Tour](https://go.dev/tour/list)
 - [Go By Example](https://gobyexample.com/)
+- [Go CrashCourse](https://www.youtube.com/watch?v=SqrbIlUwR0U)
